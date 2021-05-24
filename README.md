@@ -8,11 +8,13 @@ W.avy want to determine if the surf and ice cream business is sustainable year-r
 ## Results 
 
 - Statistical Results of June 
+
 June![image](https://user-images.githubusercontent.com/70616488/119294704-ed7c3580-bc09-11eb-8f86-1e3b8bfd4511.png)
 
 
 
 - Statistical Results of December 
+
 december![image](https://user-images.githubusercontent.com/70616488/119294713-f1a85300-bc09-11eb-9ae6-cb272179ccd4.png)
 
 
